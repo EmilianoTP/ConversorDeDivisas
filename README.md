@@ -1,4 +1,4 @@
-<h1 id=titulo align ="center"><em><strong>Conversor De Divisas y Temperatura</strong></em></h1>
+<h1 id=titulo align ="center"><strong>Conversor De Divisas y Temperatura</strong></h1>
 
 ![ImagenDePortada](https://github.com/EmilianoTP/ConversorDeDivisas/assets/123424953/de964ece-5831-461a-a783-015c1ffbc052)
 
